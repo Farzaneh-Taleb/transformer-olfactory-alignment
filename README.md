@@ -1,5 +1,5 @@
 
-# Project Title
+# Can Transformers Smell Like Humans?
 
 This repository contains the code for reproducing experimnts in the paper "Can Transformers Smell Like Humans?""
 
